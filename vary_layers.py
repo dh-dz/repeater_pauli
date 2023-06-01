@@ -14,7 +14,7 @@ from joblib import Parallel, delayed
 import multiprocessing
 # what are your inputs, and what operation do you want to
 # perform on each input. For example...
-num_cores = 5 #multiprocessing.cpu_count()
+num_cores = 20 #multiprocessing.cpu_count()
 
 # list the constant parameters: 
 # 2. error rate of pauli errors:
@@ -22,8 +22,8 @@ p_pauli = 0.001
 # 3. max number of iteratios for BP, set to be the number of physical qubits in the code
 #N_iter = steane_code.N
 bdy = True ## boundary condition, true (obc), false(pbc)
-repeat = 5
-Nrep = 1000 # number of iterations
+repeat = 20
+Nrep = 500 # number of iterations
 Nl_list = [1,2,3,4,5,6,7,8,9,10]
 p_list = [0.05]
 
