@@ -14,7 +14,18 @@ from joblib import Parallel, delayed
 import multiprocessing
 # what are your inputs, and what operation do you want to
 # perform on each input. For example...
-num_cores = 5 #multiprocessing.cpu_count()    
+num_cores = 5 #multiprocessing.cpu_count()
+
+# list the constant parameters: 
+# 2. error rate of pauli errors:
+p_pauli = 0.001
+# 3. max number of iteratios for BP, set to be the number of physical qubits in the code
+#N_iter = steane_code.N
+bdy = True ## boundary condition, true (obc), false(pbc)
+repeat = 5
+Nrep = 1000 # number of iterations
+Nl_list = [1,2,3,4,5,6,7,8,9,10]
+p_list = [0.05]
 
 def succ_prob_css_calc_new(B_orig, logicals_in, s_nodes, loss_inds):
     ######################################################
@@ -68,27 +79,6 @@ def succ_prob_css_calc_new(B_orig, logicals_in, s_nodes, loss_inds):
             # print(logicals)
     return num_qs, Sx_mat, logicals
 
-# then do the correction:
-import numpy as np
-import time
-
-# list the constant parameters: 
-# 2. error rate of pauli errors:
-p_pauli = 0.001
-# 3. max number of iteratios for BP, set to be the number of physical qubits in the code
-#N_iter = steane_code.N
-# 4. N_q: just the number of physical qubits in the code 
-#N_q = steane_code.N
-
-# add the loop outside that: which is the photon loss different cases
-
-bdy = True ## boundary condition, true (obc), false(pbc)
-repeat = 20
-Nrep = 1000 # number of iterations
-Nl_list = [4]
-#print(Nl_list)
-p_list = [0.05,0.1,0.15,0.2,0.25,0.3]
-
 # in layer stabilizer group
 Sx_mat = np.array([[1,1,1,1,0,0,0],\
               [1,1,0,0,1,1,0],\
@@ -125,8 +115,7 @@ for i_L, Nl in enumerate(Nl_list):
                         error_rate = 2/3*p_pauli,
                         xyz_error_bias= [1, 0, 0],
                         channel_probs=[None], #assign error_rate to each qubit. This will override "error_rate" input variable
-                        #max_iter = len(Sx_mat), #the maximum number of iterations for BP)
-                        max_iter = Nl,
+                        max_iter = len(Sx_mat), #the maximum number of iterations for BP)
                         bp_method="ms",
                         ms_scaling_factor=0, #min sum scaling factor. If set to zero the variable scaling factor method is used
                         osd_method="osd_cs", #the OSD method. Choose from:  1) "osd_e", "osd_cs", "osd0"
@@ -153,7 +142,7 @@ for i_L, Nl in enumerate(Nl_list):
         else:
             assert 0
 
-        np.savez(fname, succ_prob=succ_prob_7_ml, p_list=p_list, N_ls=N_ls)
+        np.savez(fname, succ_prob=succ_prob_7_ml, p_list=p_list, Nrep=Nrep)
         return 0
     #results = Parallel(n_jobs=num_cores)(delayed(runner)(i_rep) for i_rep in range(repeat))
     results = runner(0)
