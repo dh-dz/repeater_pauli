@@ -14,7 +14,7 @@ from joblib import Parallel, delayed
 import multiprocessing
 # what are your inputs, and what operation do you want to
 # perform on each input. For example...
-num_cores = 5 #multiprocessing.cpu_count()
+num_cores = 20 #multiprocessing.cpu_count()
 
 def succ_prob_css_q_resolved_new(B_orig, logicals_in, s_nodes, loss_inds):
     ######################################################
@@ -136,7 +136,7 @@ p_pauli = 0.001
 bdy = True ## boundary condition, true (obc), false(pbc)
 repeat = 20
 Nrep = 1000 # number of iterations
-Nl_list = [6,7,8,9]
+Nl_list = [12,14,16,18]
 #print(Nl_list)
 #p_list = [0.05]
 #p_list = [0.05,0.1,0.15,0.2,0.25,0.3]
@@ -300,9 +300,7 @@ for p_r in p_r_list:
             np.savez(fname, succ_prob_X=succ_prob_X, p_list=p_list, N_ls=N_ls)
 
             return 0
-        for i in range(5,repeat):
-            results = runner(i)
-        #results = runner(0)
+        results = Parallel(n_jobs=num_cores)(delayed(runner)(i_rep) for i_rep in range(repeat))
 
         
         
