@@ -16,7 +16,7 @@ import multiprocessing
 # perform on each input. For example...
 num_cores = 20 #multiprocessing.cpu_count()
 
-'''
+
 def succ_prob_css_q_resolved_new(B_orig, logicals_in, s_nodes, loss_inds):
     ######################################################
     ## inputs:
@@ -69,7 +69,7 @@ def succ_prob_css_q_resolved_new(B_orig, logicals_in, s_nodes, loss_inds):
                     Sx_mat = np.zeros((Ns_remain,N))
     
     return logic_list, Sx_mat, logicals
-'''
+
 
 
 # 2. error rate of pauli errors:
@@ -82,7 +82,7 @@ p_pauli = 0.001
 bdy = True ## boundary condition, true (obc), false(pbc)
 repeat = 20
 Nrep = 1000 # number of iterations
-Nl_list = [2,4,6,8,10,12,14,16,18,20]
+Nl_list = [14,16,18,20]
 p_list = [0]
 p_r_list = [0]
 
@@ -136,6 +136,7 @@ print("Z weight: ", np.sum(lz,axis=1))
 
 logical_tZ = lz
 logical_tX = lx
+print("lx", logical_tX)
 N_logic = np.size(logical_tZ,0)
 Nq_l = np.size(Sx_mat,1) # number of data qubits 
 Ns_l = np.size(Sx_mat,0) # number of stabilizers 
@@ -167,13 +168,15 @@ for p_r in p_r_list:
             for i_p, p in enumerate(p_list):
                 N_ls = np.zeros(np.size(logical_tX,0))
                 for i_r in range(Nrep):
-                    '''
+                    
                     # loss_inds = np.random.permutation(np.argwhere(np.random.rand(N)<p)[:,0])
                     loss_inds_data = np.random.permutation(np.where(np.random.rand(N)<p*data_qs)[1])
                     loss_inds_ancilla = np.random.permutation(np.where(np.random.rand(N)<p_stab*ancilla_qs)[1])
                     loss_inds = np.concatenate((loss_inds_data,loss_inds_ancilla))
                     succ_prob_X_val, Sx_mat, logicals = succ_prob_css_q_resolved_new(B_orig_X, logical_in_X, s_nodes, loss_inds)
-                    '''
+                    
+                    #logiicals = logical_tX
+                    #succ_prob_X_val = np.ones(np.size(logical_in_X,0))
                     error=np.zeros(N).astype(int)
                     loss_inds = np.random.permutation(np.argwhere(np.random.rand(N)<p_pauli)[:,0])
                     error[loss_inds] = 1
@@ -199,7 +202,9 @@ for p_r in p_r_list:
                             bpd.decode(syndrome)
                             #Decoding is successful if the residual error commutes with the logical operators
                             residual_error=(bpd.osdw_decoding+error) %2
-                            a = (logicals[i_log] @ residual_error % 2).any()
+                            #print(logicals[i_log])
+                            #print(logicals[i_log,:])
+                            a = (logicals[i_log,:] @ residual_error % 2).any()
                             if not a: 
                                 succ_prob_X[i_p,i_log] += succ_prob_X_val[i_log]
                                 #succ_prob_7_ml[i_p] += 1                    
