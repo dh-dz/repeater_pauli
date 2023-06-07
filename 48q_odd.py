@@ -134,9 +134,9 @@ p_pauli = 0.001
 #N_q = steane_code.N
 
 bdy = True ## boundary condition, true (obc), false(pbc)
-repeat = 20
+repeat = 60
 Nrep = 1000 # number of iterations
-Nl_list = [12,14,16,18]
+Nl_list = [10,12,14,16,18,20]
 #print(Nl_list)
 #p_list = [0.05]
 #p_list = [0.05,0.1,0.15,0.2,0.25,0.3]
@@ -292,7 +292,7 @@ for p_r in p_r_list:
             print("finished p_r= %.2f, L = %d, r=%d in %.1f secs" % (p_r,Nl,i_rep,toc-tic))
 
             if bdy:
-                fname = "pauli/48q/" + "odd_p_%.2f_Nl_%d_i_%d.npz" % (p_r,Nl,i_rep)
+                fname = "pauli/48q_1/" + "odd_p_%.2f_Nl_%d_i_%d.npz" % (p_r,Nl,i_rep)
             else:
                 assert 0
 
