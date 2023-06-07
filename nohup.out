@@ -1,0 +1,289 @@
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+0.10874906186625444
+Sx, Sz shapes: (24, 48) (24, 48)
+[Sx,Sz] =  0.0
+Sx, Sz shapes: (21, 48) (21, 48)
+[Sx,Sz] =  0.0
+X weight:  [ 8  8  8 10 10 10]
+Z weight:  [ 8  8  8 10 10 10]
+lx, lz shapes: (6, 48) (6, 48)
+[lx,lz] =  [[1 0 0 0 0 0]
+ [0 1 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 1 0 0]
+ [0 0 0 0 1 0]
+ [0 0 0 0 0 1]]
+[Sx,Sz] =  0.0
+[Sz,lx] =  0.0
+[Sx,lz] =  0.0
+X weight:  [10 10 10  8  8  8]
+Z weight:  [ 8  8  8 10 10 10]
+L= 14
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[[1.    0.999 1.    0.999 1.    1.   ]]
+finished p_r= 0.05, L = 14, r=6 in 1544.8 secs
+[[1.    0.999 1.    1.    0.999 1.   ]]
+finished p_r= 0.05, L = 14, r=0 in 1548.1 secs
+[[0.999 0.999 0.997 0.999 0.999 0.999]]
+finished p_r= 0.05, L = 14, r=7 in 1554.6 secs
+[[0.997998 1.       0.997    0.997    0.995    0.995996]]
+finished p_r= 0.05, L = 14, r=2 in 1557.5 secs
+[[0.996997 0.996997 0.995996 0.996    0.996    0.997998]]
+finished p_r= 0.05, L = 14, r=11 in 1562.4 secs
+[[0.996    0.998    0.997998 0.997    0.996997 0.996   ]]
+finished p_r= 0.05, L = 14, r=8 in 1566.0 secs
+[[0.999    1.       0.999    0.999    0.999    0.998999]]
+finished p_r= 0.05, L = 14, r=3 in 1570.0 secs
+[[0.998    0.996997 0.996997 0.998    0.998999 0.996   ]]
+finished p_r= 0.05, L = 14, r=5 in 1571.8 secs
+[[0.995    0.996997 0.995996 0.995    0.997998 0.995996]]
+finished p_r= 0.05, L = 14, r=16 in 1578.5 secs
+[[0.997    0.998    0.995    1.       0.995996 0.996   ]]
+finished p_r= 0.05, L = 14, r=18 in 1579.6 secs
+[[1.    1.    0.998 1.    0.999 0.998]]
+finished p_r= 0.05, L = 14, r=19 in 1593.4 secs
+L= 16
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[[1.    0.998 1.    0.998 1.    0.999]]
+finished p_r= 0.05, L = 16, r=10 in 2256.7 secs
+[[0.999    0.998999 0.998999 0.998    0.998999 0.997   ]]
+finished p_r= 0.05, L = 14, r=9 in 1810.1 secs
+[[0.999 1.    0.997 0.998 0.999 0.998]]
+finished p_r= 0.05, L = 16, r=1 in 2267.0 secs
+[[0.998    0.998    1.       0.998    0.998998 1.      ]]
+finished p_r= 0.05, L = 16, r=12 in 2273.8 secs
+[[1.    1.    1.    1.    1.    0.999]]
+finished p_r= 0.05, L = 14, r=15 in 1896.8 secs
+[[0.997 0.999 0.998 0.999 1.    0.999]]
+finished p_r= 0.05, L = 16, r=2 in 2275.9 secs
+[[0.996997 0.998    0.996997 0.995996 0.998    0.998   ]]
+finished p_r= 0.05, L = 14, r=10 in 1906.7 secs
+[[0.999    0.998    0.997998 1.       1.       0.999   ]]
+finished p_r= 0.05, L = 16, r=7 in 2283.4 secs
+[[0.998 0.998 0.999 0.998 0.999 0.999]]
+finished p_r= 0.05, L = 14, r=13 in 1901.4 secs
+[[0.998 0.998 0.999 0.996 0.996 0.997]]
+finished p_r= 0.05, L = 16, r=3 in 2284.2 secs
+[[0.998 0.998 0.999 0.997 0.997 0.998]]
+finished p_r= 0.05, L = 16, r=13 in 2294.4 secs
+[[0.999    0.998999 0.999    0.997998 1.       0.997   ]]
+finished p_r= 0.05, L = 14, r=1 in 1914.0 secs
+[[0.999    0.998999 0.997998 0.999    0.999    0.998   ]]
+finished p_r= 0.05, L = 16, r=8 in 2316.1 secs
+[[0.999 0.999 0.998 1.    1.    0.999]]
+finished p_r= 0.05, L = 16, r=15 in 2404.5 secs
+L= 18
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[[1.    0.999 0.999 0.999 0.999 1.   ]]
+finished p_r= 0.05, L = 18, r=12 in 3102.2 secs
+[[0.996997 0.998    0.995    0.996    0.998    0.995996]]
+finished p_r= 0.05, L = 16, r=19 in 2726.6 secs
+[[0.996 0.994 0.996 0.993 0.994 0.997]]
+finished p_r= 0.05, L = 18, r=7 in 3115.1 secs
+[[0.998 0.999 0.998 0.999 0.999 0.997]]
+finished p_r= 0.05, L = 16, r=18 in 2760.5 secs
+[[0.998 0.998 0.999 0.999 0.999 0.999]]
+finished p_r= 0.05, L = 18, r=10 in 3118.4 secs
+[[0.998999 0.995996 0.994    0.997998 0.994    0.994   ]]
+finished p_r= 0.05, L = 18, r=13 in 3125.2 secs
+[[0.998 0.997 0.998 0.996 0.997 0.998]]
+finished p_r= 0.05, L = 16, r=14 in 2755.6 secs
+[[0.998 0.999 0.999 1.    1.    0.999]]
+finished p_r= 0.05, L = 18, r=9 in 3127.7 secs
+[[1.    1.    1.    1.    1.    0.998]]
+finished p_r= 0.05, L = 16, r=11 in 2579.6 secs
+[[0.999 0.998 0.997 0.998 0.999 0.997]]
+finished p_r= 0.05, L = 18, r=4 in 3143.1 secs
+[[0.999 0.997 0.998 0.998 0.999 0.999]]
+finished p_r= 0.05, L = 16, r=9 in 2735.5 secs
+[[0.996997 0.998    0.996    0.997    1.       0.996   ]]
+finished p_r= 0.05, L = 18, r=8 in 3157.2 secs
+[[0.997998 0.996    1.       0.999    0.997    0.998999]]
+finished p_r= 0.05, L = 18, r=14 in 3162.6 secs
+[[0.998    0.998    0.999    0.996997 0.999    0.999   ]]
+finished p_r= 0.05, L = 16, r=17 in 2620.0 secs
+[[0.999 0.998 0.998 0.999 0.998 0.996]]
+finished p_r= 0.05, L = 18, r=6 in 3169.0 secs
+[[0.997 0.998 0.996 0.998 0.998 0.998]]
+finished p_r= 0.05, L = 16, r=16 in 2574.2 secs
+[[0.998 1.    0.999 0.999 1.    0.997]]
+finished p_r= 0.05, L = 18, r=3 in 3178.6 secs
+[[0.996 0.998 0.995 0.997 0.997 0.995]]
+finished p_r= 0.05, L = 18, r=17 in 3280.1 secs
+[[1.    1.    0.999 1.    1.    0.999]]
+finished p_r= 0.05, L = 18, r=15 in 3401.6 secs
+L= 20
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[[1.    0.999 1.    1.    0.999 0.999]]
+finished p_r= 0.05, L = 18, r=18 in 3759.0 secs
+[[0.999    0.999    0.998999 1.       0.997    0.998999]]
+finished p_r= 0.05, L = 20, r=3 in 4140.5 secs
+[[1.    0.999 0.999 0.999 1.    0.999]]
+finished p_r= 0.05, L = 20, r=11 in 4149.2 secs
+[[0.998 0.997 0.998 0.998 0.998 1.   ]]
+finished p_r= 0.05, L = 20, r=13 in 4149.7 secs
+[[0.996 0.999 0.997 0.998 1.    0.998]]
+finished p_r= 0.05, L = 20, r=17 in 4150.3 secs
+[[0.995996 0.998    0.997    0.998    0.996    0.996997]]
+finished p_r= 0.05, L = 20, r=10 in 4177.6 secs
+[[0.997 0.996 0.996 0.999 0.997 0.996]]
+finished p_r= 0.05, L = 20, r=18 in 4179.6 secs
+[[0.998      0.995996   0.996      0.99499499 0.997      0.997     ]]
+finished p_r= 0.05, L = 20, r=16 in 4196.2 secs
+[[0.999 0.996 0.999 0.996 0.999 0.997]]
+finished p_r= 0.05, L = 18, r=16 in 3646.0 secs
+[[0.998 0.999 1.    0.998 0.998 0.998]]
+finished p_r= 0.05, L = 20, r=0 in 4231.2 secs
+[[0.997 0.997 0.996 0.998 0.996 0.998]]
+finished p_r= 0.05, L = 14, r=12 in 1659.7 secs
+[[0.998999 0.996997 0.999    0.997    1.       0.999   ]]
+finished p_r= 0.05, L = 16, r=0 in 2570.7 secs
+[[0.998 0.998 0.995 0.998 0.998 0.998]]
+finished p_r= 0.05, L = 18, r=2 in 3792.9 secs
+[[0.998    0.998999 0.998    0.998999 0.999    0.998   ]]
+finished p_r= 0.05, L = 20, r=6 in 4238.5 secs
+[[0.998 0.998 0.997 0.998 0.999 1.   ]]
+finished p_r= 0.05, L = 14, r=4 in 1904.6 secs
+[[0.996997 0.994    0.996997 0.996    0.995    1.      ]]
+finished p_r= 0.05, L = 16, r=6 in 2486.9 secs
+[[0.998 0.998 0.998 0.998 0.996 1.   ]]
+finished p_r= 0.05, L = 18, r=0 in 3684.8 secs
+[[0.996      0.99499499 0.996      0.99499499 1.         0.995     ]]
+finished p_r= 0.05, L = 20, r=2 in 4253.2 secs
+[[0.996      0.998      0.99499499 0.999      0.996      0.997998  ]]
+finished p_r= 0.05, L = 18, r=11 in 3790.0 secs
+[[0.999 1.    1.    1.    1.    1.   ]]
+finished p_r= 0.05, L = 20, r=5 in 4256.5 secs
+[[0.997 0.999 0.999 0.999 0.998 1.   ]]
+finished p_r= 0.05, L = 14, r=17 in 1901.5 secs
+[[0.997    0.995996 0.995    0.998    0.999    0.998   ]]
+finished p_r= 0.05, L = 16, r=4 in 2499.5 secs
+[[0.997    0.993    0.993    0.996    0.995    0.995996]]
+finished p_r= 0.05, L = 18, r=1 in 3804.3 secs
+[[0.997 0.999 0.998 0.998 0.999 0.999]]
+finished p_r= 0.05, L = 20, r=7 in 4263.4 secs
+[[0.996 0.995 0.995 0.996 0.992 0.997]]
+finished p_r= 0.05, L = 20, r=8 in 4995.9 secs
+[[0.997 0.999 0.997 0.998 0.999 0.997]]
+finished p_r= 0.05, L = 20, r=15 in 4997.7 secs
+[[0.999    0.999    0.996997 0.999    0.998    0.996997]]
+finished p_r= 0.05, L = 20, r=14 in 4999.1 secs
+[[0.997998 0.998    0.999    0.998    0.999    0.997   ]]
+finished p_r= 0.05, L = 20, r=12 in 4999.6 secs
+[[0.998 0.998 0.998 0.999 1.    0.999]]
+finished p_r= 0.05, L = 20, r=9 in 5011.0 secs
+[[0.997998 0.999    0.998    0.998    0.997    0.999   ]]
+finished p_r= 0.05, L = 18, r=19 in 3680.8 secs
+[[0.998999 0.997998 0.997998 0.998999 0.996997 0.998998]]
+finished p_r= 0.05, L = 20, r=1 in 5020.7 secs
+[[0.999    0.996997 0.999    1.       0.997998 0.998   ]]
+finished p_r= 0.05, L = 20, r=19 in 5021.0 secs
+[[0.998 1.    0.998 0.997 0.998 1.   ]]
+finished p_r= 0.05, L = 14, r=14 in 1902.2 secs
+[[0.998 0.998 0.996 0.998 0.997 0.996]]
+finished p_r= 0.05, L = 16, r=5 in 2586.3 secs
+[[0.998999 0.997998 0.998999 0.997998 0.999    0.997998]]
+finished p_r= 0.05, L = 18, r=5 in 3770.7 secs
+[[1.    0.999 0.999 0.999 0.999 1.   ]]
+finished p_r= 0.05, L = 20, r=4 in 5023.3 secs

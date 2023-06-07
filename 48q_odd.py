@@ -134,9 +134,9 @@ p_pauli = 0.001
 #N_q = steane_code.N
 
 bdy = True ## boundary condition, true (obc), false(pbc)
-repeat = 60
+repeat = 20
 Nrep = 1000 # number of iterations
-Nl_list = [10,12,14,16,18,20]
+Nl_list = [14,16,18,20]
 #print(Nl_list)
 #p_list = [0.05]
 #p_list = [0.05,0.1,0.15,0.2,0.25,0.3]
