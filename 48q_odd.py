@@ -136,7 +136,7 @@ p_pauli = 0.001
 bdy = True ## boundary condition, true (obc), false(pbc)
 repeat = 100
 Nrep = 1000 # number of iterations
-Nl_list = [6,8]
+Nl_list = [5,7,9,11,13,15,17]
 #print(Nl_list)
 #p_list = [0.05]
 #p_list = [0.05,0.1,0.15,0.2,0.25,0.3]
@@ -300,7 +300,7 @@ for p_r in p_r_list:
             np.savez(fname, succ_prob_X=succ_prob_X, p_list=p_list, N_ls=N_ls)
 
             return 0
-        results = Parallel(n_jobs=num_cores)(delayed(runner)(i_rep) for i_rep in range(20,repeat))
+        results = Parallel(n_jobs=num_cores)(delayed(runner)(i_rep) for i_rep in range(repeat))
 
         
         
