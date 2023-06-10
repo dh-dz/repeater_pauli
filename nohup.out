@@ -5557,3 +5557,500 @@ Traceback (most recent call last):
 joblib.externals.loky.process_executor.TerminatedWorkerError: A worker process managed by the executor was unexpectedly terminated. This could be caused by a segmentation fault while calling the function or by an excessive memory usage causing the Operating System to kill the worker.
 
 The exit codes of the workers are {SIGTERM(-15)}
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+0.10874906186625444
+Sx, Sz shapes: (24, 48) (24, 48)
+[Sx,Sz] =  0.0
+Sx, Sz shapes: (21, 48) (21, 48)
+[Sx,Sz] =  0.0
+X weight:  [ 8  8  8 10 10 10]
+Z weight:  [ 8  8  8 10 10 10]
+lx, lz shapes: (6, 48) (6, 48)
+[lx,lz] =  [[1 0 0 0 0 0]
+ [0 1 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 1 0 0]
+ [0 0 0 0 1 0]
+ [0 0 0 0 0 1]]
+[Sx,Sz] =  0.0
+[Sz,lx] =  0.0
+[Sx,lz] =  0.0
+X weight:  [10 10 10  8  8  8]
+Z weight:  [ 8  8  8 10 10 10]
+L= 30
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[[1.   1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=7 in 2162.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=33 in 1572.9 secs
+[[0.99 1.   0.99 0.99 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=57 in 1539.6 secs
+[[0.98989899 0.98989899 1.         1.         0.99       0.99      ]]
+finished p_r= 0.05, L = 30, r=76 in 1485.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=18 in 1627.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=30 in 1569.8 secs
+[[0.99 0.99 0.99 1.   0.98 0.99]]
+finished p_r= 0.05, L = 30, r=51 in 1604.2 secs
+[[0.99 0.98 0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=75 in 2153.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=3 in 1626.4 secs
+[[0.99 1.   1.   1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=29 in 1762.2 secs
+[[1.   0.99 1.   1.   0.99 0.99]]
+finished p_r= 0.05, L = 30, r=52 in 2046.8 secs
+[[1.   0.99 1.   0.99 1.   0.99]]
+finished p_r= 0.05, L = 30, r=80 in 1662.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=19 in 1582.2 secs
+[[0.99 0.99 1.   1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=27 in 1913.1 secs
+[[1.   1.   1.   0.99 0.99 0.99]]
+finished p_r= 0.05, L = 30, r=53 in 1818.4 secs
+[[0.97 0.97 0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=78 in 1816.0 secs
+[[1.   1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=17 in 1553.6 secs
+[[0.99 1.   0.99 1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=25 in 1626.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=50 in 2096.6 secs
+[[1.   1.   0.99 0.99 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=77 in 1920.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=5 in 2296.9 secs
+[[1.   0.99 1.   1.   0.99 0.99]]
+finished p_r= 0.05, L = 30, r=42 in 1516.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=58 in 1613.6 secs
+[[1.   0.99 0.99 0.99 1.   0.99]]
+finished p_r= 0.05, L = 30, r=79 in 1896.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=0 in 1619.0 secs
+[[1.   0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=28 in 1946.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=54 in 2003.3 secs
+[[0.99 0.99 1.   0.99 1.   0.99]]
+finished p_r= 0.05, L = 30, r=82 in 1811.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=16 in 2277.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=40 in 1874.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=61 in 1594.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=83 in 1669.1 secs
+[[1.   0.98 0.99 0.98 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=15 in 2273.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=38 in 2178.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=71 in 1522.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=85 in 1451.4 secs
+[[0.98 1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=8 in 1711.4 secs
+[[1.   1.   0.99 1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=31 in 1946.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=55 in 1907.2 secs
+[[1.   0.99 0.98 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 30, r=81 in 1913.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=11 in 2146.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=32 in 2008.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=62 in 2053.8 secs
+[[0.99 0.98 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=90 in 1461.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=4 in 1578.5 secs
+[[1.   1.   1.   0.99 1.   0.99]]
+finished p_r= 0.05, L = 30, r=26 in 2102.3 secs
+[[0.99 0.99 1.   1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=56 in 2086.5 secs
+[[0.98 1.   0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 30, r=84 in 1938.0 secs
+L= 40
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+/home/daoheng/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[[1.   1.   0.99 1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=9 in 2370.8 secs
+[[0.99 0.99 0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=45 in 2170.2 secs
+[[0.99 0.99 0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=74 in 2136.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=99 in 1352.5 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=12 in 5123.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=49 in 5067.0 secs
+[[0.99 1.   0.99 1.   1.   1.  ]]
+finished p_r= 0.05, L = 40, r=73 in 4931.9 secs
+[[0.99 0.99 0.99 0.99 0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=1 in 2183.0 secs
+[[1.   1.   1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=34 in 2128.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=64 in 2106.9 secs
+[[0.99 1.   1.   1.   0.99 0.99]]
+finished p_r= 0.05, L = 30, r=94 in 1467.7 secs
+[[0.99 1.   0.99 0.98 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=6 in 5041.9 secs
+[[0.99 1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 40, r=46 in 3652.6 secs
+[[0.99 0.99 0.99 0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=58 in 3653.5 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=77 in 3567.5 secs
+[[1.   1.   0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 30, r=21 in 2250.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=36 in 2178.3 secs
+[[1.   0.99 1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=67 in 1702.5 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=87 in 1721.1 secs
+[[0.99 1.   0.98 0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=5 in 3485.9 secs
+[[1.         0.98989899 1.         1.         0.99       1.        ]]
+finished p_r= 0.05, L = 40, r=25 in 3827.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=50 in 3898.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=75 in 4921.8 secs
+[[0.98 0.98 0.98 0.99 0.97 0.97]]
+finished p_r= 0.05, L = 30, r=22 in 2282.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=41 in 2146.5 secs
+[[0.99 1.   1.   0.99 1.   0.99]]
+finished p_r= 0.05, L = 30, r=68 in 1830.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=92 in 1577.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=4 in 4761.2 secs
+[[1.   1.   1.   0.99 1.   0.99]]
+finished p_r= 0.05, L = 40, r=37 in 3653.9 secs
+[[0.99 0.99 0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=55 in 4303.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=80 in 3741.7 secs
+[[0.99 0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=19 in 4042.8 secs
+[[1.   1.   0.99 1.   1.   1.  ]]
+finished p_r= 0.05, L = 40, r=30 in 4803.9 secs
+[[1.   1.   0.99 1.   0.99 0.99]]
+finished p_r= 0.05, L = 40, r=59 in 3960.1 secs
+[[1.   0.98 1.   1.   0.98 0.99]]
+finished p_r= 0.05, L = 40, r=81 in 3851.2 secs
+[[0.99 0.99 0.99 1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=21 in 5099.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=48 in 3926.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=62 in 3618.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=79 in 4073.0 secs
+[[1.   1.   0.99 0.99 0.98 1.  ]]
+finished p_r= 0.05, L = 40, r=18 in 3981.1 secs
+[[0.99 1.   1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=29 in 4539.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=56 in 4887.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=85 in 3340.9 secs
+[[0.99       1.         0.99       0.98989899 0.99       1.        ]]
+finished p_r= 0.05, L = 30, r=12 in 2402.2 secs
+[[1.   0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=48 in 2093.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=72 in 2175.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=98 in 1261.7 secs
+[[1.   0.98 0.99 1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=16 in 4719.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=36 in 4177.4 secs
+[[0.99 0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=60 in 3946.6 secs
+[[1.   0.98 1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=82 in 4207.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=13 in 3627.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=26 in 4234.7 secs
+[[1.   1.   0.99 0.99 1.   0.99]]
+finished p_r= 0.05, L = 40, r=53 in 4591.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=78 in 4650.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=14 in 3963.1 secs
+[[0.99 0.99 0.99 0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=28 in 4614.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=57 in 5046.0 secs
+[[0.99 1.   0.99 1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=86 in 3523.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=6 in 2302.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=43 in 2129.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=69 in 2185.9 secs
+[[0.99 1.   1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=97 in 1358.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=11 in 3689.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=27 in 4421.0 secs
+[[0.99 0.99 0.99 1.   0.99 0.99]]
+finished p_r= 0.05, L = 40, r=54 in 4840.6 secs
+[[0.99 1.   0.99 0.99 0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=83 in 4235.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=10 in 2410.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=49 in 1859.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=63 in 2138.0 secs
+[[1.   0.99 0.99 1.   0.99 0.99]]
+finished p_r= 0.05, L = 30, r=93 in 1537.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=10 in 4077.5 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=31 in 3740.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=52 in 5179.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=84 in 4217.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=20 in 4989.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=42 in 5029.6 secs
+[[1.   0.98 1.   0.98 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=68 in 4059.7 secs
+[[0.99 0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=89 in 3383.5 secs
+[[0.98 1.   1.   0.99 0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=9 in 4114.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=32 in 4899.3 secs
+[[0.99 1.   0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 40, r=61 in 5034.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=88 in 3446.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=23 in 4935.9 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=41 in 4881.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=66 in 3880.1 secs
+[[0.99 0.98 0.98 0.99 0.98 0.99]]
+finished p_r= 0.05, L = 40, r=87 in 3808.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=15 in 4857.2 secs
+[[0.98 0.99 0.98 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=38 in 4775.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=64 in 4918.8 secs
+[[0.99 0.99 0.99 0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=92 in 3117.9 secs
+[[0.98 0.99 1.   0.98 0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=24 in 5019.5 secs
+[[1.   1.   0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=45 in 5219.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=74 in 4053.1 secs
+[[0.99 1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 40, r=90 in 3506.1 secs
+[[1.         0.98989899 1.         0.99       1.         0.98989899]]
+finished p_r= 0.05, L = 40, r=17 in 4623.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=34 in 4849.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=63 in 4900.6 secs
+[[0.99 0.99 0.98 0.99 0.99 0.98]]
+finished p_r= 0.05, L = 40, r=91 in 3604.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=13 in 2275.5 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=39 in 2153.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=66 in 1811.3 secs
+[[0.99 1.   0.99 1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=91 in 1524.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=0 in 4914.9 secs
+[[0.99 0.99 0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 40, r=40 in 4754.4 secs
+[[0.99 0.99 0.99 0.99 0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=65 in 4960.9 secs
+[[1.   1.   0.97 0.98 0.99 0.98]]
+finished p_r= 0.05, L = 40, r=93 in 3364.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=2 in 2217.3 secs
+[[1.   1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 30, r=35 in 2192.0 secs
+[[1.   1.   0.99 1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=65 in 2074.3 secs
+[[0.98 0.98 0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 30, r=95 in 1421.2 secs
+[[1.   0.99 0.99 0.99 1.   0.99]]
+finished p_r= 0.05, L = 40, r=7 in 5013.9 secs
+[[1.   1.   1.   1.   1.   0.99]]
+finished p_r= 0.05, L = 40, r=44 in 5144.9 secs
+[[0.98 1.   0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=72 in 4915.0 secs
+[[1.   1.   1.   0.99 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=99 in 3062.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=22 in 5073.4 secs
+[[1.   0.99 1.   1.   1.   1.  ]]
+finished p_r= 0.05, L = 40, r=47 in 4970.6 secs
+[[0.98 0.98 0.97 0.98 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=71 in 4809.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=94 in 3292.9 secs
+[[1.   0.99 1.   1.   1.   1.  ]]
+finished p_r= 0.05, L = 30, r=14 in 2268.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=37 in 1846.8 secs
+[[0.99 0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=59 in 1976.1 secs
+[[1.   0.99 1.   1.   0.99 1.  ]]
+finished p_r= 0.05, L = 30, r=86 in 1679.5 secs
+[[0.99 1.   1.   1.   1.   1.  ]]
+finished p_r= 0.05, L = 40, r=2 in 4216.7 secs
+[[0.99 1.   1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=33 in 3572.3 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=51 in 3689.2 secs
+[[1.   1.   0.99 1.   1.   0.99]]
+finished p_r= 0.05, L = 40, r=76 in 3516.6 secs
+[[1.   1.   1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 40, r=96 in 3186.2 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=20 in 2311.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=44 in 2119.9 secs
+[[0.99 0.98 0.99 1.   0.99 0.99]]
+finished p_r= 0.05, L = 30, r=70 in 2170.0 secs
+[[0.99 1.   1.   0.99 1.   1.  ]]
+finished p_r= 0.05, L = 30, r=96 in 1311.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=8 in 4897.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=39 in 5129.7 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=69 in 5004.6 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=98 in 3152.0 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=24 in 2376.8 secs
+[[0.99 1.   1.   1.   0.99 0.99]]
+finished p_r= 0.05, L = 30, r=46 in 2136.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=73 in 1642.4 secs
+[[0.98989899 0.98       0.99       0.99       0.99       0.98989899]]
+finished p_r= 0.05, L = 30, r=89 in 1626.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=3 in 4645.9 secs
+[[0.99 1.   0.99 0.99 0.99 1.  ]]
+finished p_r= 0.05, L = 40, r=35 in 5295.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=67 in 4936.7 secs
+[[0.99 0.99 1.   0.99 1.   0.98]]
+finished p_r= 0.05, L = 40, r=95 in 3305.7 secs
+[[0.98 0.98 0.99 0.99 1.   0.98]]
+finished p_r= 0.05, L = 30, r=23 in 2377.8 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=47 in 1751.4 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=60 in 2007.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 30, r=88 in 1634.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=1 in 5001.1 secs
+[[1. 1. 1. 1. 1. 1.]]
+finished p_r= 0.05, L = 40, r=43 in 5036.1 secs
+[[1.         0.98989899 1.         1.         0.99       1.        ]]
+finished p_r= 0.05, L = 40, r=70 in 4968.3 secs
+[[0.99 0.99 0.99 0.99 0.99 0.99]]
+finished p_r= 0.05, L = 40, r=97 in 3225.2 secs
