@@ -134,7 +134,7 @@ p_pauli = 0.001
 #N_q = steane_code.N
 
 bdy = True ## boundary condition, true (obc), false(pbc)
-repeat = 100
+repeat = 1000
 Nrep = 100 # number of iterations
 Nl_list = [30,40]
 #print(Nl_list)
@@ -300,7 +300,7 @@ for p_r in p_r_list:
             np.savez(fname, succ_prob_X=succ_prob_X, p_list=p_list, N_ls=N_ls)
 
             return 0
-        results = Parallel(n_jobs=num_cores)(delayed(runner)(i_rep) for i_rep in range(repeat))
+        results = Parallel(n_jobs=num_cores)(delayed(runner)(i_rep) for i_rep in range(500,repeat))
 
         
         
